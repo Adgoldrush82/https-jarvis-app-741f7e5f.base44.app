@@ -1,1 +1,7 @@
-# https-jarvis-app-741f7e5f.base44.app
+echo "# GamerEarnCash-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Adgoldrush82/GamerEarnCash-.git
+git push -u origin main
